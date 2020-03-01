@@ -36,7 +36,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Originium Crafts Alpha',
+        'Originium Work Alpha',
         0,
         0,
         30,
@@ -45,7 +45,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Originium Crafts Beta',
+        'Originium Work Beta',
         0,
         0,
         35,

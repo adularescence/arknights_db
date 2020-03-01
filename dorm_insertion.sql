@@ -1,3 +1,4 @@
+INSERT INTO dorm VALUES ('No Skill', 0, 0, 0);
 INSERT INTO dorm VALUES ('Solitude', 0.7, 0, 0);
 INSERT INTO dorm VALUES ('Craze', 0.85, 0, 0);
 INSERT INTO dorm VALUES ('Elegy', 1, 0, 0);

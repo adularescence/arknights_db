@@ -1,5 +1,12 @@
 INSERT INTO trade (trade_skill, efficiency, capacity, morale)
     VALUES (
+        'No Skill',
+        0,
+        0,
+        0
+    );
+INSERT INTO trade (trade_skill, efficiency, capacity, morale)
+    VALUES (
         'Order Management Alpha',
         10,
         1,

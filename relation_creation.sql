@@ -67,16 +67,16 @@ CREATE TABLE training(
 );
 
 CREATE TABLE operator(
-    op_skill VARCHAR(11) NOT NULL,
+    op_name VARCHAR(11) NOT NULL,
     elite NUMERIC(1, 0) CHECK (elite >= 0 AND elite <= 2) NOT NULL,
-    hq TEXT REFERENCES hq,
-    plant TEXT REFERENCES plant,
-    factory TEXT REFERENCES factory,
-    trade TEXT REFERENCES trade,
-    dorm TEXT REFERENCES dorm,
-    reception TEXT REFERENCES reception,
-    workshop TEXT REFERENCES workshop,
-    office TEXT REFERENCES office,
-    training TEXT REFERENCES training,
-    PRIMARY KEY (op_skill, elite)
+    hq_skill TEXT REFERENCES hq,
+    plant_skill TEXT REFERENCES plant,
+    factory_skill TEXT REFERENCES factory,
+    trade_skill TEXT REFERENCES trade,
+    dorm_skill TEXT REFERENCES dorm,
+    reception_skill TEXT REFERENCES reception,
+    workshop_skill TEXT REFERENCES workshop,
+    office_skill TEXT REFERENCES office,
+    training_skill TEXT REFERENCES training,
+    PRIMARY KEY (op_name, elite)
 );

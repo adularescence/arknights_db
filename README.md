@@ -21,4 +21,4 @@ Schema, relation creation, and insertion queries for a bunch of operators' base 
 
 *training*(**training_skill**, guard, medic, vanguard, caster, sniper, defender, supporter, specialist)
 
-*operator*(**name**, **elite**, hq, plant, factory, trade, dorm, reception, workshop, office, training)
+*operator*(**op_name**, **elite**, hq, plant, factory, trade, dorm, reception, workshop, office, training)

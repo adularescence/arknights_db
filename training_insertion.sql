@@ -1,3 +1,4 @@
+INSERT INTO training VALUES ('No Skill', 0, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO training VALUES ('Drillmaster', 25, 25, 25, 25, 25, 25, 25, 25);
 INSERT INTO training VALUES ('Guard Expert Alpha', 30, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO training VALUES ('Guard Expert Beta', 50, 0, 0, 0, 0, 0, 0, 0);

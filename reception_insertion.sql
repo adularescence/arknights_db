@@ -1,3 +1,4 @@
+INSERT INTO reception VALUES ('No Skill', 0, 0);
 INSERT INTO reception VALUES ('Clue Search Alpha', 10, 0);
 INSERT INTO reception VALUES ('Clue Search Beta', 20, 0);
 INSERT INTO reception VALUES ('Divination', 25, 0);

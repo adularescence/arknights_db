@@ -1,3 +1,4 @@
+INSERT INTO plant VALUES ('No Skill', 0);
 INSERT INTO plant VALUES ('Backup Energy', 10);
 INSERT INTO plant VALUES ('Heat Charge Alpha', 10);
 INSERT INTO plant VALUES ('Equipment Maintenance', 15);

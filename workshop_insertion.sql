@@ -1,3 +1,4 @@
+INSERT INTO workshop VALUES ('No Skill', 0, 0, 0, 0);
 INSERT INTO workshop VALUES ('Engineering', 70, 0, 0, 0);
 INSERT INTO workshop VALUES ('Nutriology', 0, 70, 0, 0);
 INSERT INTO workshop VALUES ('Tech Theory', 0, 0, 70, 0);

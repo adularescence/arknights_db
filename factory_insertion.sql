@@ -1,5 +1,14 @@
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
+        'No Skill',
+        0,
+        0,
+        0,
+        0,
+        0
+    );
+INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
+    VALUES (
         'Metalwork Alpha',
         30,
         0,

@@ -1,0 +1,11 @@
+INSERT INTO reception VALUES ('Clue Search Alpha', 10, 0);
+INSERT INTO reception VALUES ('Clue Search Beta', 20, 0);
+INSERT INTO reception VALUES ('Divination', 25, 0);
+INSERT INTO reception VALUES ('Tracker', 25, 0);
+INSERT INTO reception VALUES ('Police', 25, 0);
+INSERT INTO reception VALUES ('Watchman', 10, 1);
+INSERT INTO reception VALUES ('Liaison', 10, 3);
+INSERT INTO reception VALUES ('Counselor', 10, 4);
+INSERT INTO reception VALUES ('Arraigner', 10, 5);
+INSERT INTO reception VALUES ('Courier', 10, 6);
+INSERT INTO reception VALUES ('Messenger', 10, 7);

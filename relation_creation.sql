@@ -38,7 +38,7 @@ CREATE TABLE dorm(
 CREATE TABLE reception(
     reception_skill TEXT PRIMARY KEY,
     efficiency NUMERIC(2, 0) NOT NULL,
-    focus NUMERIC(1, 0) CHECK (focus >= 1 AND focus <= 7)
+    focus NUMERIC(1, 0) CHECK (focus >= 0 AND focus <= 7)
 );
 
 CREATE TABLE workshop(

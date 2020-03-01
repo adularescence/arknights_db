@@ -1,0 +1,13 @@
+INSERT INTO workshop VALUES ('Engineering', 70, 0, 0, 0);
+INSERT INTO workshop VALUES ('Nutriology', 0, 70, 0, 0);
+INSERT INTO workshop VALUES ('Tech Theory', 0, 0, 70, 0);
+INSERT INTO workshop VALUES ('Training Record', 0, 0, 0, 70);
+INSERT INTO workshop VALUES ('Pharmacology Alpha', 0, 75, 0, 0);
+INSERT INTO workshop VALUES ('Toxicology Alpha', 0, 75, 0, 0);
+INSERT INTO workshop VALUES ('Toxicology Beta', 0, 80, 0, 0);
+INSERT INTO workshop VALUES ('Blasting Materialogy Alpha', 0, 75, 0, 0);
+INSERT INTO workshop VALUES ('Blasting Materialogy Beta', 0, 80, 0, 0);
+INSERT INTO workshop VALUES ('Focus Alpha', 40, 40, 40, 40);
+INSERT INTO workshop VALUES ('Focus Beta', 60, 60, 60, 60);
+INSERT INTO workshop VALUES ('Skillful Craftsman', 50, 50, 50, 50);
+INSERT INTO workshop VALUES ('Meeboo: Processing', 65, 65, 65, 65);

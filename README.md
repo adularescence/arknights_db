@@ -3,22 +3,6 @@ Schema, relation creation, and insertion queries for a bunch of operators' base 
 
 #### Schema
 
-*hq*(**hq_skill**, morale, trade, notes)
+*skill*(**skill_name**, skill_type, all_moral, efficiency, metal_efficiency, record_efficiency, originium_efficiency, capacity, notes, self_morale, random_morale, clue_focus, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency, guard, medic, vanguard, caster, sniper, defender, supporter, specialist)
 
-*plant*(**plant_skill**, efficiency)
-
-*factory*(**factory_skill**, metal, record, originium, capacity, morale, notes)
-
-*trade*(**trade_skill**, efficiency, capacity, morale, notes)
-
-*dorm*(**dorm_skill**, self_morale, random_morale, all_morale)
-
-*reception*(**reception_skill**, efficiency, focus)
-
-*workshop*(**workshop_skill**, base, elite, skill, chip)
-
-*office*(**office_skill**, efficiency)
-
-*training*(**training_skill**, guard, medic, vanguard, caster, sniper, defender, supporter, specialist)
-
-*operator*(**op_name**, **elite**, hq, plant, factory, trade, dorm, reception, workshop, office, training)
+*operator*(**op_name**, **elite**, skill_name)

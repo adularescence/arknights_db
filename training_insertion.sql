@@ -1,0 +1,18 @@
+INSERT INTO training VALUES ('Drillmaster', 25, 25, 25, 25, 25, 25, 25, 25);
+INSERT INTO training VALUES ('Guard Expert Alpha', 30, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Guard Expert Beta', 50, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Medic Expert Alpha', 0, 30, 0, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Medic Expert Beta', 0, 50, 0, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Vanguard Expert Alpha', 0, 0, 30, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Vanguard Expert Beta', 0, 0, 50, 0, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Caster Expert Alpha', 0, 0, 0, 30, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Caster Expert Beta', 0, 0, 0, 50, 0, 0, 0, 0);
+INSERT INTO training VALUES ('Sniper Expert Alpha', 0, 0, 0, 0, 30, 0, 0, 0);
+INSERT INTO training VALUES ('Sniper Expert Beta', 0, 0, 0, 0, 50, 0, 0, 0);
+INSERT INTO training VALUES ('Defender Expert Alpha', 0, 0, 0, 0, 0, 30, 0, 0);
+INSERT INTO training VALUES ('Defender Expert Beta', 0, 0, 0, 0, 0, 50, 0, 0);
+INSERT INTO training VALUES ('Hannya', 0, 0, 0, 0, 0, 60, 0, 0);
+INSERT INTO training VALUES ('Supporter Expert Alpha', 0, 0, 0, 0, 0, 0, 30, 0);
+INSERT INTO training VALUES ('Supporter Expert Beta', 0, 0, 0, 0, 0, 0, 50, 0);
+INSERT INTO training VALUES ('Speicialist Expert Alpha', 0, 0, 0, 0, 0, 0, 0, 30);
+INSERT INTO training VALUES ('Specialist Expert Beta', 0, 0, 0, 0, 0, 0, 0, 30);

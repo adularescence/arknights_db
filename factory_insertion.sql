@@ -1,6 +1,6 @@
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Metal Crafts Alpha',
+        'Metalwork Alpha',
         30,
         0,
         0,
@@ -9,7 +9,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Metal Crafts Beta',
+        'Metalwork Beta',
         35,
         0,
         0,
@@ -18,7 +18,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Combat Directive Recordings',
+        'Combat Guidance Video',
         0,
         30,
         0,
@@ -90,7 +90,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, notes)
     VALUES (
-        'Impatient',
+        'Hothead',
         25,
         25,
         25,
@@ -100,7 +100,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, 
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, notes)
     VALUES (
-        'Slow Starter',
+        'Slowcoach',
         25,
         25,
         25,
@@ -110,7 +110,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, 
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, notes)
     VALUES (
-        'Troublesome Creator',
+        'Troublemaker',
         25,
         25,
         25,
@@ -119,7 +119,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale, 
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Originium Crafts Alpha',
+        'Originium Work Alpha',
         0,
         0,
         30,
@@ -128,7 +128,16 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Scavenger',
+        'Originium Work Beta',
+        0,
+        0,
+        35,
+        0,
+        0
+    );
+INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
+    VALUES (
+        'Junkman',
         0,
         0,
         0,
@@ -146,7 +155,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Rhine Technology Alpha',
+        'Rhine Tech Alpha',
         15,
         15,
         15,
@@ -155,7 +164,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Rhine Technology Beta',
+        'Rhine Tech Beta',
         25,
         25,
         25,
@@ -164,7 +173,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Craftsmanship Alpha',
+        'Craftsmanship Spirit Alpha',
         -5,
         -5,
         -5,
@@ -173,7 +182,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Craftsmanship Beta',
+        'Craftsmanship Spirit Beta',
         -5,
         -5,
         -5,
@@ -182,7 +191,7 @@ INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     );
 INSERT INTO factory (factory_skill, metal, record, originium, capacity, morale)
     VALUES (
-        'Boxing Guide Recordings',
+        'Boxing Guidance Video',
         0,
         35,
         0,

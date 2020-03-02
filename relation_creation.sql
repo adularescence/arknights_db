@@ -31,3 +31,4 @@ CREATE TABLE operator(
     skill_name TEXT REFERENCES skill,
     PRIMARY KEY (op_name, elite)
 );
+

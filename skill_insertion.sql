@@ -21,12 +21,11 @@ INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, 
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Standardization Beta', 'factory', 25, 25, 25, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Hothead', 'factory', 25, 25, 25, 0, 0, 'Starts At 20% Efficiency, Gain 1% Efficiency Per Hour Until Max');
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Slowcoach', 'factory', 25, 25, 25, 0, 0, 'Starts At 15% Efficiency, Gain 2% Efficiency Per Hour Until Max');
-INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Troublemaker', 'factory', 25, 25, 25, -12, 0.2);
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Troublemaker', 'factory', 25, 25, 25, -12, 0.25);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Junkman', 'factory', 0, 0, 0, 8, -0.25);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Geologist', 'factory', 0, 0, 35, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Rhine Tech Alpha', 'factory', 15, 15, 15, 0, 0);
-INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Rhine Tech Beta', 'factory', 25, 25, 25, 0, 0);
-INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Craftsmanship Spirit Alpha', 'factory', -5, -5, -5, 16, -0.15);
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capaacity, self_morale) VALUES ('Craftsmanship Spirit Alpha', 'factory', -5, -5, -5, 16, -0.15);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Craftsmanship Spirit Beta', 'factory', -5, -5, -5, 18, -0.25);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Boxing Guidance Video', 'factory', 0, 35, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Meeboo: Manufacturing', 'factory', 30, 30, 30, 0, 0);

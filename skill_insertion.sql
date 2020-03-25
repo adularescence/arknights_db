@@ -1,5 +1,5 @@
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Capable Assistance', 'hq', -0.05, 0);
-INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Cleanup Agreement', 'hq', -0.05, 0);
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Cleaning Agreement', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('S.W.E.E.P.', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Agreement', 'hq', 0, 7, 'skill Efficiency Does Not Stack');
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Missy', 'hq', 0, 7, 'skill Efficiency Does Not Stack');

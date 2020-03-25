@@ -1,4 +1,5 @@
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Capable Assistance', 'hq', -0.05, 0);
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Cleanup Agreement', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('S.W.E.E.P.', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Agreement', 'hq', 0, 7, 'skill Efficiency Does Not Stack');
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Missy', 'hq', 0, 7, 'skill Efficiency Does Not Stack');
@@ -21,6 +22,7 @@ INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, 
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Standardization Beta', 'factory', 25, 25, 25, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Hothead', 'factory', 25, 25, 25, 0, 0, 'Starts At 20% Efficiency, Gain 1% Efficiency Per Hour Until Max');
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Slowcoach', 'factory', 25, 25, 25, 0, 0, 'Starts At 15% Efficiency, Gain 2% Efficiency Per Hour Until Max');
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Recycling', 'factory', 0, 0, 0, 0, 0, 'Gain 2% Efficiency per +1 Capacity From All Operators In Same Factory');
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Troublemaker', 'factory', 25, 25, 25, -12, 0.2);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Junkman', 'factory', 0, 0, 0, 8, -0.25);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Geologist', 'factory', 0, 0, 35, 0, 0);
@@ -72,6 +74,9 @@ INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, sk
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Focus Beta', 'workshop', 60, 60, 60, 60);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Skillful Craftsman', 'workshop', 50, 50, 50, 50);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Meeboo: Processing', 'workshop', 65, 65, 65, 65);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Arise', 'workshop', 0, 0, 80, 0);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Multifunctional Robotter', 'workshop', 50, 50, 50, 50);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency, notes) VALUES ('Drone-Soaring Dragon', 'workshop', 0, 0, 0, 0, '-2 Morale Used For All >=4 Morale Recipes');
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Personnel Management Alpha', 'office', 20);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Alpha', 'office', 30);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Beta', 'office', 45);

@@ -1,7 +1,7 @@
 ## Arknights Base Skills DB
 Schema, relation creation, and insertion queries for a bunch of Operators' Base skills.
 
-I (think) I have added all the Operators and skills as of the Ch'en banner (March 2, 2020).
+I (think) I have added all the Operators and skills as of the Operational Intelligence Event (March 25, 2020).
 
 Data is copied from https://aceship.github.io/AN-EN-Tags/akhrchars.html.
 

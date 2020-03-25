@@ -135,8 +135,9 @@ Output:
  FEater     | Combat Guidance Video        |                0
  Eyjafjalla | Volcanologist                |                0
  Vigna      | Combat Guidance Video        |                0
+ Vermeil    | Junkman                      |                0
  Vulcan     | Craftsmanship Spirit Alpha   |               -5
-(17 rows)
+(18 rows)
 ```
 </details>
 

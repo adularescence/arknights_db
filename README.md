@@ -134,8 +134,8 @@ Output:
  Noir Corne | Warehouse Organization Beta  |               10
  FEater     | Combat Guidance Video        |                0
  Eyjafjalla | Volcanologist                |                0
- Vigna      | Combat Guidance Video        |                0
  Vermeil    | Junkman                      |                0
+ Vigna      | Combat Guidance Video        |                0
  Vulcan     | Craftsmanship Spirit Alpha   |               -5
 (18 rows)
 ```

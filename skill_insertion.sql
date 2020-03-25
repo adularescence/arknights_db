@@ -1,9 +1,9 @@
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Capable Assistance', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Cleaning Agreement', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('S.W.E.E.P.', 'hq', -0.05, 0);
-INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Agreement', 'hq', 0, 7, 'skill Efficiency Does Not Stack');
-INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Missy', 'hq', 0, 7, 'skill Efficiency Does Not Stack');
-INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Both Ability and Political Integrity', 'hq', -0.05, 0, 'Per "Lungman Guard Bureau" Opeator');
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Agreement', 'hq', 0, 7, 'Skill Efficiency Does Not Stack');
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Princess', 'hq', 0, 7, 'Skill Efficiency Does Not Stack');
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Integrity & Capability', 'hq', -0.05, 0, '-0.05 All Morale Per L.G.D. Operator');
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Backup Energy', 'power', 10);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Heat Charge Alpha', 'power', 10);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Equipment Maintenance', 'power', 15);
@@ -54,7 +54,7 @@ INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Clue
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Clue Search Beta', 'reception',  20, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Divination', 'reception',  25, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Tracker', 'reception',  25, 0);
-INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Police', 'reception',  25, 0);
+INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Police Superintendent', 'reception',  25, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Watchman', 'reception',  10, 1);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Liaison', 'reception',  10, 3);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Counselor', 'reception',  10, 4);

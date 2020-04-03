@@ -76,7 +76,7 @@ INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, sk
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Meeboo: Processing', 'workshop', 65, 65, 65, 65);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Arise', 'workshop', 0, 0, 80, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Multifunctional Robotter', 'workshop', 50, 50, 50, 50);
-INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency, notes) VALUES ('Drone-Soaring Dragon', 'workshop', 0, 0, 0, 0, '-2 Morale Used For All >=4 Morale Recipes');
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency, notes) VALUES ('Drone - Soaring Dragon', 'workshop', 0, 0, 0, 0, '-2 Morale Used For All >=4 Morale Recipes');
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Personnel Management Alpha', 'office', 20);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Alpha', 'office', 30);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Beta', 'office', 45);

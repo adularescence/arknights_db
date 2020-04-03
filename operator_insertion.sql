@@ -101,7 +101,7 @@ INSERT INTO operator VALUES ('Nightingale', 2, 'Lady of the Lamp');
 INSERT INTO operator VALUES ('Nightmare', 0, 'Caster Expert Alpha');
 INSERT INTO operator VALUES ('Nightmare', 2, 'Psychology');
 INSERT INTO operator VALUES ('Magallan', 0, 'Multifunctional Robotter');
-INSERT INTO operator VALUES ('Magallan', 2, 'Drone-Soaring Dragon');
+INSERT INTO operator VALUES ('Magallan', 2, 'Drone - Soaring Dragon');
 INSERT INTO operator VALUES ('Manticore', 0, 'Specialist Expert Alpha');
 INSERT INTO operator VALUES ('Manticore', 2, 'Specialist Expert Beta');
 INSERT INTO operator VALUES ('Matoimaru', 0, 'Tech Theory');

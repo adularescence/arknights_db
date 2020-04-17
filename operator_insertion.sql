@@ -8,6 +8,8 @@ INSERT INTO operator VALUES ('Angelina', 0, 'Clue Search Alpha');
 INSERT INTO operator VALUES ('Angelina', 2, 'Messenger');
 INSERT INTO operator VALUES ('Ansel', 0, 'Thoughtfulness');
 INSERT INTO operator VALUES ('Ansel', 1, 'Pharmacology Alpha');
+INSERT INTO operator VALUES ('Astesia', 0, 'Clue Search Alpha');
+INSERT INTO operator VALUES ('Astesia', 1, 'Astrology');
 INSERT INTO operator VALUES ('Beagle', 0, 'Warehouse Organization Alpha');
 INSERT INTO operator VALUES ('Beagle', 1, 'Liveliness');
 INSERT INTO operator VALUES ('Beehunter', 0, 'Guard Expert Alpha');

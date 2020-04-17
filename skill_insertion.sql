@@ -55,6 +55,7 @@ INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Clue
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Divination', 'reception',  25, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Tracker', 'reception',  25, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Police Superintendent', 'reception',  25, 0);
+INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Astrology', 'reception',  25, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Watchman', 'reception',  10, 1);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Liaison', 'reception',  10, 3);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Counselor', 'reception',  10, 4);

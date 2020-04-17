@@ -29,6 +29,6 @@ CREATE TABLE operator(
     op_name VARCHAR(12),
     elite NUMERIC(1, 0) CHECK (elite >= 0 AND elite <= 2),
     skill_name TEXT REFERENCES skill,
-    PRIMARY KEY (op_name, elite)
+    PRIMARY KEY (op_name, elite, skill_name)
 );
 

@@ -70,6 +70,7 @@ INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, sk
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Toxicology Beta', 'workshop', 0, 80, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Blasting Materialogy Alpha', 'workshop', 0, 75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Blasting Materialogy Beta', 'workshop', 0, 80, 0, 0);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Arts of War', 'workshop', 0, 0, 80, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Focus Alpha', 'workshop', 40, 40, 40, 40);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Focus Beta', 'workshop', 60, 60, 60, 60);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Skillful Craftsman', 'workshop', 50, 50, 50, 50);
@@ -99,12 +100,15 @@ INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, snipe
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Supporter Expert Beta', 'training', 0, 0, 0, 0, 0, 0, 50, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Specialist Expert Alpha', 'training', 0, 0, 0, 0, 0, 0, 0, 30);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Specialist Expert Beta', 'training', 0, 0, 0, 0, 0, 0, 0, 30);
+INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Release', 'dorm', 0.55, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Solitude', 'dorm', 0.7, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Craze', 'dorm', 0.85, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Elegy', 'dorm', 1, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Thoughtfulness', 'dorm', 0, 0.55, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Medical Service', 'dorm', 0, 0.65, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Mercy', 'dorm', 0, 0.75, 0);
+INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Break Loose', 'dorm', 0, 0, 0.1);
+INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Absolution', 'dorm', 0.55, 0, 0.1);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Inspiration', 'dorm', 0, 0, 0.1);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Idol', 'dorm', 0, 0, 0.15);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Violin Solo', 'dorm', 0, 0, 0.15);

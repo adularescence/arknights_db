@@ -1,3 +1,6 @@
+DROP TABLE operator;
+DROP TABLE skill;
+
 CREATE TABLE skill(
     skill_name TEXT PRIMARY KEY,
     skill_type VARCHAR(9) CHECK (skill_type IN ('hq', 'power', 'factory', 'trade', 'dorm', 'reception', 'workshop', 'office', 'training')),

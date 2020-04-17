@@ -128,6 +128,8 @@ INSERT INTO operator VALUES ('Mousse', 0, 'Order Distribution Beta');
 INSERT INTO operator VALUES ('Mousse', 1, 'Baking');
 INSERT INTO operator VALUES ('Myrrh', 0, 'Pharmacology Alpha');
 INSERT INTO operator VALUES ('Myrrh', 1, 'Thoughtfulness');
+INSERT INTO operator VALUES ('Myrtle', 0, 'Negotiation');
+INSERT INTO operator VALUES ('Myrtle', 1, 'Leader');
 INSERT INTO operator VALUES ('Noir Corne', 0, 'Warehouse Organization Beta');
 INSERT INTO operator VALUES ('Noir Corne', 1, 'Order Management Alpha');
 INSERT INTO operator VALUES ('Orchid', 0, 'Psychology');

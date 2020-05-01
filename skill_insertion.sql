@@ -11,6 +11,8 @@ INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Electrostatic Fi
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Pulsed Arc Alpha', 'power', 10);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Pulsed Arc Beta', 'power', 20);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Superheat Charge', 'power', 15);
+INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Electromagnetic Charge Alpha', 'power', 10);
+INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Electromagnetic Charge Beta', 'power', 15);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Metalwork Alpha', 'factory', 30, 0, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Metalwork Beta', 'factory', 35, 0, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Combat Guidance Video', 'factory', 0, 30, 0, 0, 0);

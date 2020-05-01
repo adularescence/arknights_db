@@ -64,6 +64,8 @@ INSERT INTO operator VALUES ('Gavial', 0, 'Pharmacology Alpha');
 INSERT INTO operator VALUES ('Gavial', 1, 'Medic Expert Alpha');
 INSERT INTO operator VALUES ('Gitano', 0, 'Supply Management');
 INSERT INTO operator VALUES ('Gitano', 1, 'Divination');
+INSERT INTO operator VALUES ('Glaucus', 0, 'Electromagnetic Charge Alpha');
+INSERT INTO operator VALUES ('Glaucus', 2, 'Electromagnetic Charge Beta');
 INSERT INTO operator VALUES ('Grani', 0, 'Vanguard Expert Alpha');
 INSERT INTO operator VALUES ('Grani', 2, 'Vanguard Expert Beta');
 INSERT INTO operator VALUES ('Gravel', 0, 'Focus Alpha');

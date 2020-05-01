@@ -35,6 +35,7 @@ INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, 
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Boxing Guidance Video', 'factory', 0, 35, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Meeboo: Manufacturing', 'factory', 30, 30, 30, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Volcanologist', 'factory', 0, 0, 35, 0, 0);
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Originium Study', 'factory', 0, 0, 35, 0, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Management Alpha', 'trade', 10, 1, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Distribution Alpha', 'trade', 20, 0, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Distribution Beta', 'trade', 30, 0, 0);
@@ -71,6 +72,7 @@ INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, sk
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Pharmacology Alpha', 'workshop', 0, 75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Toxicology Alpha', 'workshop', 0, 75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Toxicology Beta', 'workshop', 0, 80, 0, 0);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Scholar', 'workshop', 0, 80, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Blasting Materialogy Alpha', 'workshop', 0, 75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Blasting Materialogy Beta', 'workshop', 0, 80, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Arts of War', 'workshop', 0, 0, 80, 0);

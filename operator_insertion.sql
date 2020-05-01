@@ -22,6 +22,8 @@ INSERT INTO operator VALUES ('Cardigan', 0, 'Warehouse Organization Alpha');
 INSERT INTO operator VALUES ('Cardigan', 1, 'Liveliness');
 INSERT INTO operator VALUES ('Catapult', 0, 'Communication');
 INSERT INTO operator VALUES ('Catapult', 1, 'Blasting Materialogy Beta');
+INSERT INTO operator VALUES ('Ceylon', 0, 'Scholar');
+INSERT INTO operator VALUES ('Ceylon', 2, 'Originium Study');
 INSERT INTO operator VALUES (E'Ch\'en', 0, 'Integrity & Capability');
 INSERT INTO operator VALUES (E'Ch\'en', 2, 'Police Superintendent');
 INSERT INTO operator VALUES ('Cliffheart', 0, E'Explorer\'s Passion');

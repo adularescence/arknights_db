@@ -94,6 +94,7 @@ INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, snipe
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Caster Expert Beta', 'training', 0, 0, 0, 50, 0, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Sniper Expert Alpha', 'training', 0, 0, 0, 0, 30, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Sniper Expert Beta', 'training', 0, 0, 0, 0, 50, 0, 0, 0);
+INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Black Arrow', 'training', 0, 0, 0, 0, 60, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Defender Expert Alpha', 'training', 0, 0, 0, 0, 0, 30, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Defender Expert Beta', 'training', 0, 0, 0, 0, 0, 50, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Hannya', 'training', 0, 0, 0, 0, 0, 60, 0, 0);
@@ -126,3 +127,4 @@ INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_moral
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Karlan Saint', 'dorm', 0.25, 0.5, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Laziness', 'dorm', -0.1, 0, 0.2);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Sleepiness', 'dorm', -0.1, 0, 0.25);
+INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale, notes) VALUES ('Make Tea', 'dorm', 0, 0.55, 0, 'If target is Ceylon, random_morale is 1 instead.');

@@ -160,6 +160,8 @@ INSERT INTO operator VALUES ('Savage', 0, 'Tech Theory');
 INSERT INTO operator VALUES ('Savage', 2, 'Cooking');
 INSERT INTO operator VALUES ('Scavenger', 0, 'S.W.E.E.P.');
 INSERT INTO operator VALUES ('Scavenger', 1, 'Junkman');
+INSERT INTO operator VALUES ('Schwarz', 0, 'Make Tea');
+INSERT INTO operator VALUES ('Schwarz', 2, 'Black Arrow');
 INSERT INTO operator VALUES ('Shaw', 0, 'Engineering');
 INSERT INTO operator VALUES ('Shaw', 1, 'Equipment Maintenance');
 INSERT INTO operator VALUES ('Shining', 0, 'Thoughtfulness');

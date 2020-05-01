@@ -190,6 +190,8 @@ INSERT INTO operator VALUES ('Spot', 0, 'Skillful Craftsman');
 INSERT INTO operator VALUES ('Spot', 1, 'Metalwork Alpha');
 INSERT INTO operator VALUES ('Steward', 0, 'Negotiation');
 INSERT INTO operator VALUES ('Steward', 1, 'Standardization Beta');
+INSERT INTO operator VALUES ('Sussurro', 0, 'Medic Expert Alpha');
+INSERT INTO operator VALUES ('Sussurro', 1, 'Pharmacology Beta');
 INSERT INTO operator VALUES ('Swire', 0, 'Princess');
 INSERT INTO operator VALUES ('Swire', 2, 'Drillmaster');
 INSERT INTO operator VALUES ('Texas', 0, 'Feud');

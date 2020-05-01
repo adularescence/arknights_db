@@ -70,6 +70,7 @@ INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, sk
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Tech Theory', 'workshop', 0, 0, 70, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Training Record', 'workshop', 0, 0, 0, 70);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Pharmacology Alpha', 'workshop', 0, 75, 0, 0);
+INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Pharmacology Beta', 'workshop', 0, 80, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Toxicology Alpha', 'workshop', 0, 75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Toxicology Beta', 'workshop', 0, 80, 0, 0);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Scholar', 'workshop', 0, 80, 0, 0);

@@ -89,6 +89,7 @@ INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Personnel Manage
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Alpha', 'office', 30);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Catastrophe Messenger Beta', 'office', 45);
 INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('Psychology', 'office', 40);
+INSERT INTO skill (skill_name, skill_type, efficiency) VALUES ('WRITER', 'office', 40);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Drillmaster', 'training', 25, 25, 25, 25, 25, 25, 25, 25);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Guard Expert Alpha', 'training', 30, 0, 0, 0, 0, 0, 0, 0);
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Guard Expert Beta', 'training', 50, 0, 0, 0, 0, 0, 0, 0);
@@ -110,6 +111,7 @@ INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, snipe
 INSERT INTO skill (skill_name, skill_type, guard, medic, vanguard, caster, sniper, defender, supporter, specialist) VALUES ('Specialist Expert Beta', 'training', 0, 0, 0, 0, 0, 0, 0, 30);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Release', 'dorm', 0.55, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Solitude', 'dorm', 0.7, 0, 0);
+INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Concealed Gourmet', 'dorm', 0.75, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Craze', 'dorm', 0.85, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Elegy', 'dorm', 1, 0, 0);
 INSERT INTO skill (skill_name, skill_type, self_morale, random_morale, all_morale) VALUES ('Thoughtfulness', 'dorm', 0, 0.55, 0);

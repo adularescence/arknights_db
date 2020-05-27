@@ -46,6 +46,8 @@ INSERT INTO operator VALUES ('Earthspirit', 0, 'Catastrophe Messenger Alpha');
 INSERT INTO operator VALUES ('Earthspirit', 1, 'Catastrophe Messenger Alpha');
 INSERT INTO operator VALUES ('Estelle', 0, 'Focus Beta');
 INSERT INTO operator VALUES ('Estelle', 1, 'Solitude');
+INSERT INTO operator VALUES ('Ethan', 0, 'WRITER');
+INSERT INTO operator VALUES ('Ethan', 1, 'Concealed Gourmet');
 INSERT INTO operator VALUES ('Executor', 0, 'Sniper Expert Alpha');
 INSERT INTO operator VALUES ('Executor', 2, 'Cleaning Agreement');
 INSERT INTO operator VALUES ('Exusiai', 0, 'Penguin Logistics Alpha');

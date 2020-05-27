@@ -1,6 +1,7 @@
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Capable Assistance', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Cleaning Agreement', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('S.W.E.E.P.', 'hq', -0.05, 0);
+INSERT INTO skill (skill_name, skill_type, all_morale, efficiency) VALUES ('Snack Network', 'hq', -0.05, 0);
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Agreement', 'hq', 0, 7, 'Skill Efficiency Does Not Stack');
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Princess', 'hq', 0, 7, 'Skill Efficiency Does Not Stack');
 INSERT INTO skill (skill_name, skill_type, all_morale, efficiency, notes) VALUES ('Integrity & Capability', 'hq', -0.05, 0, '-0.05 All Morale Per L.G.D. Operator');

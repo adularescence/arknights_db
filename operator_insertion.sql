@@ -40,6 +40,8 @@ INSERT INTO operator VALUES ('Deepcolor', 0, 'Order Distribution Alpha');
 INSERT INTO operator VALUES ('Deepcolor', 1, 'Focus Beta');
 INSERT INTO operator VALUES ('Dobermann', 0, 'Capable Assistance');
 INSERT INTO operator VALUES ('Dobermann', 1, 'Drillmaster');
+INSERT INTO operator VALUES ('Dur-nar', 0, 'Defender Expert Alpha');
+INSERT INTO operator VALUES ('Dur-nar', 1, 'Snack Network');
 INSERT INTO operator VALUES ('Durin', 0, 'Laziness');
 INSERT INTO operator VALUES ('Durin', 1, 'Sleepiness');
 INSERT INTO operator VALUES ('Earthspirit', 0, 'Catastrophe Messenger Alpha');

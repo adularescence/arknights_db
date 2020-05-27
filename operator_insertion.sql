@@ -16,6 +16,8 @@ INSERT INTO operator VALUES ('Beehunter', 0, 'Guard Expert Alpha');
 INSERT INTO operator VALUES ('Beehunter', 1, 'Training Record');
 INSERT INTO operator VALUES ('Blue Poison', 0, 'Toxicology Alpha');
 INSERT INTO operator VALUES ('Blue Poison', 2, 'Toxicology Beta');
+INSERT INTO operator VALUES ('Breeze', 0, 'Clue Search Alpha');
+INSERT INTO operator VALUES ('Breeze', 2, 'Fallen Noble');
 INSERT INTO operator VALUES ('Castle-3', 0, 'Backup Energy');
 INSERT INTO operator VALUES ('Castle-3', 1, 'Combat Guidance Video');
 INSERT INTO operator VALUES ('Cardigan', 0, 'Warehouse Organization Alpha');

@@ -63,6 +63,7 @@ INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Watc
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Liaison', 'reception',  10, 3);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Counselor', 'reception',  10, 4);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Arraigner', 'reception',  10, 5);
+INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Fallen Noble', 'reception',  10, 5);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Courier', 'reception',  10, 6);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Messenger', 'reception',  10, 7);
 INSERT INTO skill (skill_name, skill_type, base_efficiency, elite_efficiency, skill_efficiency, chip_efficiency) VALUES ('Engineering', 'workshop', 70, 0, 0, 0);

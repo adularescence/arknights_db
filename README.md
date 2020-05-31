@@ -1,7 +1,7 @@
 ## Arknights Base Skills DB
 Schema, relation creation, and insertion queries for a bunch of Operators' Base skills.
 
-I (think) I have added all the Operators and skills as of the "Summer Guardians" Banner (April 29, 2020).
+I (think) I have added all the Operators and skills as of the "Code of Brawl" Event (May 31, 2020).
 
 Data is copied from https://aceship.github.io/AN-EN-Tags/akhrchars.html.
 

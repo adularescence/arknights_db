@@ -78,8 +78,8 @@ LIMIT <# of Operators>;
 - `clue_focus`: increases the chance of finding Clue #&lt;value&gt;
 
 `'workshop'` attributes:
-- `base_efficiency`: byproduct chance modifier for Base Material
-- `elite_efficiency`: byproduct chance modifier for Elite Material
+- `building_efficiency`: byproduct chance modifier for Building Material
+- `upgrade_efficiency`: byproduct chance modifier for Upgrade Material
 - `skill_efficiency`: byproduct chance modifier for Skill Summary
 - `chip_efficiency`: byproduct chance modifier for Chip
 

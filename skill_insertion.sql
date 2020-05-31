@@ -37,6 +37,8 @@ INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, 
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Meeboo: Manufacturing', 'factory', 30, 30, 30, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Volcanologist', 'factory', 0, 0, 35, 0, 0);
 INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale) VALUES ('Originium Study', 'factory', 0, 0, 35, 0, 0);
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Team Spirit', 'factory', 0, 0, 0, 0, 0, "Ignores Morale Effects From Other Co-stationed Operators.");
+INSERT INTO skill (skill_name, skill_type, metal_efficiency, record_efficiency, originium_efficiency, capacity, self_morale, notes) VALUES ('Originium Study', 'factory', 40, 40, 40, 0, 0, "Gain 5% Efficiency Per 5% Efficiency From Other Co-stationed Operators, Up To Max.");
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Management Alpha', 'trade', 10, 1, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Distribution Alpha', 'trade', 20, 0, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Order Distribution Beta', 'trade', 30, 0, 0);

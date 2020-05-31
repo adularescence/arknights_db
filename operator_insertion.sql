@@ -212,6 +212,8 @@ INSERT INTO operator VALUES ('Vigna', 0, 'Combat Guidance Video');
 INSERT INTO operator VALUES ('Vigna', 1, 'Vanguard Expert Beta');
 INSERT INTO operator VALUES ('Vulcan', 0, 'Craftsmanship Spirit Alpha');
 INSERT INTO operator VALUES ('Vulcan', 2, 'Craftsmanship Spirit Beta');
+INSERT INTO operator VALUES ('Waai Fu', 0, 'Team Spirit');
+INSERT INTO operator VALUES ('Waai Fu', 2, 'Cooperative Will');
 INSERT INTO operator VALUES ('Warfarin', 0, 'Medic Expert Alpha');
 INSERT INTO operator VALUES ('Warfarin', 2, 'Medic Expert Beta');
 INSERT INTO operator VALUES ('Yato', 0, 'Order Distribution Beta');

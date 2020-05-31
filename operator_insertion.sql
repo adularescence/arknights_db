@@ -126,6 +126,8 @@ INSERT INTO operator VALUES ('Matoimaru', 0, 'Tech Theory');
 INSERT INTO operator VALUES ('Matoimaru', 1, 'Order Distribution Beta');
 INSERT INTO operator VALUES ('Matterhorn', 0, 'Karlan Commercial Alpha');
 INSERT INTO operator VALUES ('Matterhorn', 1, 'Defender Expert Beta');
+INSERT INTO operator VALUES ('May', 0, 'Clue Search Beta');
+INSERT INTO operator VALUES ('May', 1, 'Royal Detective (Self Proclaimed)');
 INSERT INTO operator VALUES ('Mayer', 0, 'Meeboo: Processing');
 INSERT INTO operator VALUES ('Mayer', 2, 'Meeboo: Manufacturing');
 INSERT INTO operator VALUES ('Melantha', 0, 'Supply Management');

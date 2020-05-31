@@ -134,6 +134,8 @@ INSERT INTO operator VALUES ('Meteorite', 0, 'Blasting Materialogy Alpha');
 INSERT INTO operator VALUES ('Meteorite', 2, 'Blasting Materialogy Beta');
 INSERT INTO operator VALUES ('Midnight', 0, 'Communication');
 INSERT INTO operator VALUES ('Midnight', 1, 'Originium Work Alpha');
+INSERT INTO operator VALUES ('Mostima', 0, 'Clue Search Alpha');
+INSERT INTO operator VALUES ('Mostima', 2, 'Messenger - Penguin Logistics');
 INSERT INTO operator VALUES ('Mousse', 0, 'Order Distribution Beta');
 INSERT INTO operator VALUES ('Mousse', 1, 'Baking');
 INSERT INTO operator VALUES ('Myrrh', 0, 'Pharmacology Alpha');

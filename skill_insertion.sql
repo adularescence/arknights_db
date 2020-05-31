@@ -56,6 +56,8 @@ INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale, no
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Mission Guarantee', 'trade', 30, 1, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Logistics Expert', 'trade', 35, 0, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Lord of Karlan', 'trade', 20, 3, 0);
+INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('峯驰物流', 'trade', 20, 0, 0);
+INSERT INTO skill (skill_name, skill_type, efficiency, capacity, self_morale) VALUES ('Young Master', 'trade', 30, 1, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Clue Search Alpha', 'reception', 10, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Clue Search Beta', 'reception',  20, 0);
 INSERT INTO skill (skill_name, skill_type, efficiency, clue_focus) VALUES ('Divination', 'reception',  25, 0);
